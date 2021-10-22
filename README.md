@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinhphamhuu
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Angular, Qt QML, C++, nodejs, ..
+- 🌱 I’m currently wwork on Angular, Qt QML, C++, nodejs, ..
 - 💞️ I’m looking to collaborate on software: web, mobile and iot solutions
 - 📫 How to reach me: vinhph112@gmail.com | (+84) 933599926
 
